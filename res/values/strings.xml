@@ -2,7 +2,9 @@
 <resources>
 
     <string name="app_name">android-xmljson</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="mainactivity_hello_tv">Hello world!</string>
     <string name="menu_settings">Settings</string>
+    <string name="mainactivity_load_xml_bt">Load xml</string>
+    <string name="mainactivity_load_json_bt">Load json</string>
 
 </resources>
